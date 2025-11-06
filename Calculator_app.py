@@ -1,7 +1,7 @@
 import streamlit as st
 
 def run():
-    st.title("Simple Calculator 🔢")
+    st.title("Welcome to Simple Calculator  🔢")
 
     st.write("Perform basic arithmetic operations easily!")
 
@@ -35,3 +35,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+
